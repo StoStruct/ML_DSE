@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "Explainable Machine Learning-Assisted Multi-Objective Design Space Exploration of Steel Frame Buildings Considering Seismic Loss and Recovery Performance"
+message: "If you use this repository in your research, please cite the associated publication."
+type: software
+
+authors:
+  - family-names: "Zaker Esteghamati"
+    given-names: "Mohsen"
+    affiliation: "Department of Civil and Environmental Engineering, Utah State University"
+
+repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+
+license: MIT
+
+keywords:
+  - Earthquake Engineering
+  - Structural Engineering
+  - Performance-Based Earthquake Engineering
+  - Functional Recovery
+  - Seismic Loss
+  - Explainable Artificial Intelligence
+  - Machine Learning
+  - Random Forest
+  - SHAP
+  - Structural Resilience
+
+abstract: >
+  This repository contains the Python implementation of an explainability-assisted
+  machine learning framework for multi-objective design space exploration of steel
+  special moment-resisting frames considering functional recovery and expected
+  annual loss.
+
+version: 1.0.0
+date-released: 2026-07-07
